@@ -1,8 +1,5 @@
 import math
 
-
-
-
 print(6+4*10)
 print((6+4)*10)
 print(23.0**5)
@@ -27,3 +24,13 @@ print(10/3)
 print(10.0/3.0)
 print(2.1**2.0)
 print(2.2*3.0)
+
+pi=3.14159
+print(pi)
+pi_approx=22/7
+print(pi_approx)
+
+a=3
+print(a+2.0)
+a=a+1.0
+print(a)
