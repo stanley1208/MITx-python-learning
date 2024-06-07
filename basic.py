@@ -52,3 +52,6 @@ print(5/2==5/2.0)
 print(round(2.6))
 print(int(2.6))
 print(5*2==5.0*2.0)
+
+print(round(2.6))
+print(5*2)
